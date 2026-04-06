@@ -1,6 +1,13 @@
 # 冰箱比較
 
-更新日期：2026-04-05
+更新日期：2026-04-06
+
+目前需求條件：
+
+- 只考慮 `三門`
+- `深度不受限`
+
+在這個前提下，建議優先看 `Panasonic NR-C454`。
 
 比較型號：
 
@@ -11,12 +18,20 @@
 
 ## 快速結論
 
-如果只看整體均衡性，`Sharp SJ-PW46KT` 最值得優先看。
+如果條件是 `三門 + 深度不受限`，首選是 `Panasonic NR-C454`。
 
-- 想要功能完整、分區多、家庭使用彈性高：選 `Sharp SJ-PW46KT`
-- 廚房寬度限制在 `60cm`，又想要五門：選 `Mitsubishi MR-B46F`
-- 常煮飯、重視肉品保鮮與微凍料理便利：選 `Panasonic NR-C454`
-- 預算和空間都想保守一點：選 `Hitachi R-G41B`
+原因很簡單：
+
+- 容量比 `Hitachi R-G41B` 大，`450L` 對 `394L`
+- 有 `-3°C 微凍結`，更適合常煮飯與肉品保鮮
+- 既然你不受深度限制，`R-G41B` 的主要優勢就只剩窄身
+
+所以目前的選擇順序可以直接收斂為：
+
+1. `Panasonic NR-C454`
+2. `Hitachi R-G41B`
+
+如果你家寬度也不受限，那幾乎可以直接選 `Panasonic NR-C454`。
 
 ## 主要規格比較
 
@@ -26,6 +41,31 @@
 | Hitachi `R-G41B` | 394L | 3門 | 約 `1810 x 600 x 655 mm` | 60cm 窄身、深度較淺 | 小宅、2-3 人家庭 |
 | Sharp `SJ-PW46KT` | 457L | 5門 | 約 `1838 x 650 x 630 mm` | 左右開門、五門分區完整 | 3 人以上、重視好用與收納 |
 | Mitsubishi `MR-B46F` | 455L | 5門 | 約 `1821 x 600 x 699 mm` | 60cm 窄身五門、日製收納邏輯 | 想要窄身但不想犧牲分區 |
+
+## 產品圖片與頁面
+
+### Panasonic `NR-C454`
+
+- 官方產品頁：[Panasonic NR-C454HG](https://www.panasonic.com/tw/consumer/refrigerator/three-door/nr-c454hg.html)
+- 官方規格頁：[Panasonic NR-C454HV Specs](https://www.panasonic.com/tw/consumer/refrigerator/three-door/nr-c454hv.specs.html)
+- 圖片參考頁：[Panasonic 搜尋圖片](https://www.google.com/search?tbm=isch&q=Panasonic+NR-C454HV)
+
+### Hitachi `R-G41B`
+
+- 官方產品頁：[Hitachi R-G41B](https://hitachi-homeappliances.com.tw/products/products_03.php?pid=RG41B)
+- 圖片參考頁：[Image Audio 商品圖](https://www.imageaudio.com.tw/products/rg41b)
+- 圖片參考頁：[Google 搜尋圖片](https://www.google.com/search?tbm=isch&q=Hitachi+R-G41B)
+
+### Sharp `SJ-PW46KT`
+
+- 官方產品頁：[Sharp SJ-PW46KT](https://www.tw.sharp/products/sj-pw46kt)
+- 圖片參考頁：[Google 搜尋圖片](https://www.google.com/search?tbm=isch&q=Sharp+SJ-PW46KT)
+
+### Mitsubishi `MR-B46F`
+
+- 商品規格頁：[PChome MR-B46F](https://24h.pchome.com.tw/prod/DPAC34-A900FF4SV)
+- 圖片參考頁：[HotaiGo MR-B46F](https://www.hotaigo.com.tw/productdetail/hotai1752650729-mr-b46f.html)
+- 圖片參考頁：[Google 搜尋圖片](https://www.google.com/search?tbm=isch&q=Mitsubishi+MR-B46F)
 
 ## 各台重點
 
@@ -83,52 +123,30 @@
 
 ## 我會怎麼選
 
-### 情境 1：最通用、不想選錯
-
-選 `Sharp SJ-PW46KT`。
-
-原因是它在容量、門數、分區、開門便利性和家庭使用彈性之間最均衡，屬於「整體最不容易後悔」的選擇。
-
-### 情境 2：廚房只能放 60cm 寬
-
-優先看：
-
-1. `Mitsubishi MR-B46F`
-2. `Hitachi R-G41B`
-
-如果你希望有五門分區，選 `MR-B46F`；如果你更在意價格與深度，選 `R-G41B`。
-
-### 情境 3：常買生鮮、重視保鮮體驗
+### 你的條件：三門、深度不受限
 
 選 `Panasonic NR-C454`。
 
-`-3°C 微凍結` 對經常備料、醃肉、分次料理的人很實用。
+原因是三門選項裡，它提供更大的容量與更實用的保鮮功能，整體更適合當家用主力冰箱。
 
-### 情境 4：2-3 人家庭、希望簡單夠用
+### 什麼情況才改選 `Hitachi R-G41B`
 
-選 `Hitachi R-G41B`。
-
-容量雖然不是最大，但在小宅條件下通常更容易安裝，也比較不佔走道。
+- 廚房寬度卡得很緊，必須接近 `60cm`
+- 家裡人口少，2-3 人且不太囤貨
+- 更在意機身瘦一點，而不是容量大一點
 
 ## 建議排名
 
-一般情況：
+在你目前條件下：
 
-1. `Sharp SJ-PW46KT`
-2. `Mitsubishi MR-B46F`
-3. `Panasonic NR-C454`
-4. `Hitachi R-G41B`
-
-如果空間限制是 `60cm` 寬：
-
-1. `Mitsubishi MR-B46F`
+1. `Panasonic NR-C454`
 2. `Hitachi R-G41B`
 
 ## 最後一句
 
-如果你的需求是「家用主力冰箱、希望容量夠、分區好用、整體最均衡」，先看 `Sharp SJ-PW46KT`。
+如果你的需求是「三門、深度不受限、希望當家用主力冰箱」，先看 `Panasonic NR-C454`。
 
-如果你的需求是「廚房很小，但還是想要五門高機能」，先看 `Mitsubishi MR-B46F`。
+只有在你家寬度很卡、而且不需要那麼大容量時，再改看 `Hitachi R-G41B`。
 
 ## 參考來源
 
