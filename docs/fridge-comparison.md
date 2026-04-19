@@ -35,12 +35,12 @@
 
 ## 主要規格比較
 
-| 型號 | 容量 | 門數 | 尺寸重點 | 特別優勢 | 適合誰 |
-| --- | ---: | ---: | --- | --- | --- |
-| Panasonic `NR-C454` | 450L | 3門 | 約 `1830 x 671 x 695 mm` | `-3°C 微凍結`、AI ECONAVI | 常開伙、重視保鮮效率 |
-| Hitachi `R-G41B` | 394L | 3門 | 約 `1810 x 600 x 655 mm` | 60cm 窄身、深度較淺 | 小宅、2-3 人家庭 |
-| Sharp `SJ-PW46KT` | 457L | 5門 | 約 `1838 x 650 x 630 mm` | 左右開門、五門分區完整 | 3 人以上、重視好用與收納 |
-| Mitsubishi `MR-B46F` | 455L | 5門 | 約 `1821 x 600 x 699 mm` | 60cm 窄身五門、日製收納邏輯 | 想要窄身但不想犧牲分區 |
+| 型號 | 容量 | 門數 | 開門方向 | 尺寸重點 | 特別優勢 | 適合誰 |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Panasonic `NR-C454` | 450L | 3門 | 本次未查到官方標示可選右開 | 約 `1830 x 671 x 695 mm` | `-3°C 微凍結`、AI ECONAVI | 常開伙、重視保鮮效率 |
+| Hitachi `R-G41B` | 394L | 3門 | `右開` | 約 `1810 x 600 x 655 mm` | 60cm 窄身、深度較淺 | 小宅、2-3 人家庭 |
+| Sharp `SJ-PW46KT` | 457L | 5門 | `左右開任意門` | 約 `1838 x 650 x 630 mm` | 左右開門、五門分區完整 | 3 人以上、重視好用與收納 |
+| Mitsubishi `MR-B46F` | 455L | 5門 | 本次未查到明確右開資訊 | 約 `1821 x 600 x 699 mm` | 60cm 窄身五門、日製收納邏輯 | 想要窄身但不想犧牲分區 |
 
 ## 產品圖片與頁面
 
@@ -71,6 +71,8 @@
 
 ### Panasonic `NR-C454`
 
+- 開門方向：本次未查到 Panasonic 官方明確標示 `NR-C454` 可選右開
+
 優點：
 
 - `-3°C 微凍結` 很適合短期保存肉品，料理前不太需要完全退冰
@@ -83,6 +85,8 @@
 - 寬度不是 60cm 級距，擺放前要先量空間
 
 ### Hitachi `R-G41B`
+
+- 開門方向：官方規格標示為 `R-G41B (右開)`，另有左開特仕版 `R-G41BL`
 
 優點：
 
@@ -97,6 +101,8 @@
 
 ### Sharp `SJ-PW46KT`
 
+- 開門方向：`左右開任意門`
+
 優點：
 
 - 五門分區完整，冷藏、製冰、冷凍、蔬果更好分類
@@ -109,6 +115,8 @@
 - 若預算有限，通常會比三門款更高一些
 
 ### Mitsubishi `MR-B46F`
+
+- 開門方向：本次未查到官方明確標示右開或可改門向
 
 優點：
 
@@ -153,5 +161,6 @@
 - Panasonic 官方：<https://www.panasonic.com/tw/consumer/refrigerator/three-door/nr-c454hg.html>
 - Panasonic 規格頁：<https://www.panasonic.com/tw/consumer/refrigerator/three-door/nr-c454hv.specs.html>
 - Hitachi 官方：<https://hitachi-homeappliances.com.tw/products/products_03.php?pid=RG41B>
+- Hitachi 規格特色頁（含 `R-G41B (右開) / R-G41BL (左開)`）：<https://hitachi-homeappliances.com.tw/products/products_feature.php?pid=RG41B>
 - Sharp 官方：<https://www.tw.sharp/products/sj-pw46kt>
 - Mitsubishi 通路規格頁：<https://24h.pchome.com.tw/prod/DPAC34-A900FF4SV>
